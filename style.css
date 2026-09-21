@@ -48,6 +48,7 @@ body {
     background: rgb(0,0,0,0.8);
         color:#fff;
         opacity:0;
+    text-align:center;
 }
 .text2 {
     flex-direction: column;
@@ -64,6 +65,7 @@ body {
     background: rgb(0,0,0,0.8);
     color:#fff;
     opacity:0;
+    text-align:center;
 }
 
 .btn1 {
